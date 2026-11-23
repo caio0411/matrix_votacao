@@ -137,11 +137,6 @@ Para desligar: `Ctrl+C` no terminal do bot e depois `docker compose down`.
 
 Para apagar tudo e começar do zero, apague também a pasta `synapse-data/`.
 
-## Testes
-
-```bash
-python -m unittest -v
-```
 
 ## Problemas comuns
 
